@@ -1,2 +1,0 @@
-# ShoppingCart
-Shopping Cart
