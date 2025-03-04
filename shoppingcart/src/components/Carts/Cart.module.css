@@ -1,0 +1,16 @@
+.cart {
+  display: flex;
+  gap: 10px;
+  border: 1px solid black;
+  align-items: center;
+  justify-content: space-around;
+  padding: 10px;
+}
+
+.strikeThrough {
+  text-decoration: line-through;
+}
+
+.image {
+  width: 150px;
+}

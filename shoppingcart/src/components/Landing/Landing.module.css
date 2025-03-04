@@ -1,0 +1,13 @@
+.navs {
+  display: flex;
+  gap: 10px;
+}
+
+.nav {
+  color: #000000;
+  cursor: pointer;
+}
+
+.selected {
+  color: blue;
+}
